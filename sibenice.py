@@ -14,8 +14,6 @@
 #  - pokud jsou všechna písmenka, která se ve slově vyskytují, uhádnuta,
 #    vyhráváš a hra končí
 
-
-
 from random import randint
 
 # nacte slova
