@@ -1,0 +1,9 @@
+1	elektrina
+2	internet
+3	notebook
+4	cokolada
+5	plavky
+6	kapesní nůž
+7	léky
+8	rybářský prut
+9	solární generátor
